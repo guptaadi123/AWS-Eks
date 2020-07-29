@@ -49,4 +49,4 @@ kubectl get  secret  fair-numbat-grafana   --namespace  grafana  -o yaml")
 * once fargat cluster is created now we have to update kube config for that run  the following command (" aws eks --region your region update-kubeconfig  --name cluster name ") aftet this you can use kubectl get nodes to  check nodes launched by fargat cluster interanlly.
 
 
-
+* Article link https://www.linkedin.com/pulse/eks-aditya-gupta*
